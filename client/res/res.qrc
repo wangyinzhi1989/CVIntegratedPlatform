@@ -1,0 +1,10 @@
+<!DOCTYPE RCC><RCC version="0.001">
+    <qresource prefix="icons">
+        <file alias="config">./icons/config.png</file>
+        <file alias="error">./icons/error.png</file>
+        <file alias="info">./icons/info.png</file>
+        <file alias="logo">./icons/logo.png</file>
+        <file alias="select">./icons/select.png</file>
+        <file alias="waring">./icons/waring.png</file>
+    </qresource>
+</RCC>
